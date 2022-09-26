@@ -1,0 +1,13 @@
+.header a{
+text-decoration: none;
+margin: 15px;
+padding: 2px;
+background-color: rgb(254, 254, 254);
+box-shadow: 1px 1px 1px;
+border-radius: 2px;
+}
+a:hover{
+background-color: antiquewhite;
+padding: 4px;
+border-radius: 5px;
+}
